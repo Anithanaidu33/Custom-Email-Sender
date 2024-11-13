@@ -4,3 +4,5 @@ requests
 Celery (for scheduling)
 SQLAlchemy or another ORM (for database)
 SendGrid/Mailgun API client (for ESP integration)
+openai
+
